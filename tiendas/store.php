@@ -22,8 +22,8 @@ $viewProducts = getView($conn);
 	<?php } ?>
 
 
-	<h1>Bienvenido <?php echo $nameStore; ?></h1>
-	<h2>Tienda: <?php echo $namePerson; ?></h2>
+	<h1>Bienvenido <?php echo $namePerson; ?></h1>
+	<h2>Tienda: <?php echo $nameStore; ?></h2>
 	
 
 	<?php

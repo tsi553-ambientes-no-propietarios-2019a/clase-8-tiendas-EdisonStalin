@@ -63,7 +63,7 @@ $user = getStore($conn);
 
 				<tr>
 					<td><?php echo $u['username'] ?></td>
-						<?php $v= $u['id'] ?>
+						<?php $v= $u['id']?>
 						
 
 					<td> <a href="store.php?id=<?php echo $v ?>">Visitar </a> </td>
